@@ -1,0 +1,15 @@
+{
+  "name": "sendotp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Otp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nexmo": "^2.6.0",
+    "twilio": "^3.39.4"
+  }
+}
